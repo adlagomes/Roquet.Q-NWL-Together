@@ -20,9 +20,12 @@ html{
     --grey-blue: #a1b2cd;
     --grey-light: #e5eaf1;
 
-    font-size: 62.5%
+    /* 1rem = 16px (User Agent) = 100% (User Agent) */
+
+    font-size: 62.5% /* 10px */
 }
 body{
+    display: flex;
     height: 100vh;
     background: var(--background);
 }
@@ -47,7 +50,7 @@ margin: 0 auto;
     white-space: nowrap;
     border-width: 0;
 }
-
+/*-----Input and buttons*/
 input, button, .button{
     border-radius: .8rem;
     height: 5rem;
