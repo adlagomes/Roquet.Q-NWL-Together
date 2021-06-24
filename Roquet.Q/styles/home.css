@@ -28,10 +28,6 @@ main .container{
     width: min(36.3rem, 100%);
 }
 
-/** Eu que acrescentei para dar espaçamento entre icone e nome nos botões da pagina 'Home' **/
-main .container section form button img{
-    margin-right: .9rem;
-}
 main .container section .outlined img{
     margin-right: .9rem;
 }
