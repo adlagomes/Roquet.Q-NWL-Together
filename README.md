@@ -27,7 +27,7 @@ O Rocket.Q é uma aplicação de interação entre internautas através de pergu
 
 ## 🔖 Layout <a name="-layout"></a>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<img src="https://github.com/adlagomes/Roquet.Q-NWL-Together/blob/main/layout.png">
 
 ## :memo: Licença <a name="memo-licença"></a>
 
